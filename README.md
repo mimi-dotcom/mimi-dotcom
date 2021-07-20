@@ -1,6 +1,6 @@
 - 👋 Hi Good People, I’m @mimi-dotcom
 - 👀 I’m interested in PYTHON PROJECTS
-- 🌱 I’m currently learning Data Science 
+- 🌱 Data Science enthusiast
 
 
 <!---
